@@ -3,11 +3,13 @@
 This repo has TS/JS code examples I've made for various things.
 
 
-### Results for moveNegativeNumbersToFront.ts:
+### Result for: [moveNegativeNumbersToFront.ts](https://github.com/vitaliy-k-sdet/tasks_typescript_js/blob/main/moveNegativeNumbersToFront.ts)
 
 <img width="1782" height="906" alt="image" src="https://github.com/user-attachments/assets/112b57db-971d-4d2d-8f22-1725fc6c6993" />
 
-### Result for bot-slot-booking.ts:
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+### Result for: [bot-slot-booking.ts](https://github.com/vitaliy-k-sdet/tasks_typescript_js/blob/main/bot-slot-booking.ts)
 <img width="1280" height="351" alt="image" src="https://github.com/user-attachments/assets/872361c5-0410-4e3f-9194-0d4bc8cf3d71" />
 
 <img width="1280" height="259" alt="image" src="https://github.com/user-attachments/assets/9afc5618-4b16-4311-baa4-8f0aab02af13" />
@@ -16,4 +18,5 @@ This repo has TS/JS code examples I've made for various things.
 
 <img width="660" height="351" alt="image" src="https://github.com/user-attachments/assets/9adb9aa2-5110-47c7-ae5e-c1551f6a8c76" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
