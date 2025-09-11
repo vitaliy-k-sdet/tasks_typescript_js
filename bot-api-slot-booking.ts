@@ -88,9 +88,9 @@ const myHeadersAvailability = {
   cookie: '_cfuvid=fmPgRjFPwui2gdBMEPhx3U0PbP1aqnxwrsI_UvOaKf0-1712070255203-0.0.1.1-604800000; _ga=GA1.1.235210126.1703629879; cf_clearance=dcATwq33DvnyFjUQpoKLXcVYlXA_1tK4Q.edCd8K0VY-1712077039-1.0.1.1-0dSdlx3YREypybnT0UEl2Aga.bqEkclpBRBpK7tPfR_P6kkpAIZLNRK0TBOoyWP6q1GVTrDf3X2FIshYJH1OEw; _ga_EMQHDMV81K=GS1.1.1712077038.6.0.1712077042.0.0.0; JSESSIONID=C3737F4596083154F974545E40DA38FB; JSESSIONID=3FDA4F7D794202252B64F7AFF2F99949',
   dnt: '1',
   referer: `https://${rootUrl}/registration?countryId=40&institutionId=59&categoryId=1&operationId=610`, 
-  'sec-ch-ua': '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"',
-  'sec-ch-ua-mobile': '?0',
-  'sec-ch-ua-platform': '"Windows"',
+  'sec-ch': '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"',
+  'sec-ch-mobile': '?0',
+  'sec-ch-platform': '"Windows"',
   'sec-fetch-dest': 'empty',
   'sec-fetch-mode': 'cors',
   'sec-fetch-site': 'same-origin',
@@ -98,15 +98,15 @@ const myHeadersAvailability = {
 };
 
 const  myHeadersBooking = {
-  'sec-ch-ua': '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"',
+  'sec-ch': '"Google Chrome";v="123", "Not:A-Brand";v="8", "Chromium";v="123"',
   'DNT': '1',
-  'sec-ch-ua-mobile': '?0',
+  'sec-ch-mobile': '?0',
   'Authorization': `Bearer ${tokenData}`,
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
   'Content-Type': 'application/json',
   'Accept': 'application/json, text/plain, */*',
   referer: `https://${rootUrl}/registration?countryId=40&institutionId=59&categoryId=1&operationId=610`, 
-  'sec-ch-ua-platform': '"Windows"'
+  'sec-ch-platform': '"Windows"'
 };
 
 const requestOptionsAvailability: AxiosRequestConfig = {
