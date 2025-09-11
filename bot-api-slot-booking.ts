@@ -1,4 +1,4 @@
-/* Bot used to book time slots for submitting documents in one of the services with high demand. 
+/* Bot used to book time slots over API requests for submitting documents in one of the services with high demand. 
 */
 
 import axios, { AxiosRequestConfig } from 'axios';
