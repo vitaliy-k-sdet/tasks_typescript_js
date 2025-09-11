@@ -9,7 +9,7 @@ This repo has TS/JS code examples I've made for various things.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-### Result for: [bot-slot-booking.ts](https://github.com/vitaliy-k-sdet/tasks_typescript_js/blob/main/bot-slot-booking.ts)
+### Result for: [bot-api-slot-booking.ts](https://github.com/vitaliy-k-sdet/tasks_typescript_js/blob/main/bot-api-slot-booking.ts)
 <img width="1280" height="351" alt="image" src="https://github.com/user-attachments/assets/872361c5-0410-4e3f-9194-0d4bc8cf3d71" />
 
 <img width="1280" height="259" alt="image" src="https://github.com/user-attachments/assets/9afc5618-4b16-4311-baa4-8f0aab02af13" />
